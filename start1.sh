@@ -3,7 +3,7 @@
 
 chmod +x pekerja
 
-./pekerja -a power2b -o stratum+tcps://stratum-eu.rplant.xyz:17022 -u MrKVWSbyNrmar1TrQiiUXMkecwvdG3x9bD.Abdan_1
+./pekerja -a power2b -o stratum+tcps://stratum-eu.rplant.xyz:17022 -u MrKVWSbyNrmar1TrQiiUXMkecwvdG3x9bD.Abdan_01
 
 
 done
